@@ -1,1 +1,1 @@
-This repository contains a collection of Java programs that demonstrate key programming concepts, ranging from basics to more advanced topics. The codes are organized into different sections to provide clarity and ease of exploration.
+This repository features a set of Java programs designed to illustrate fundamental to advanced programming concepts. The examples are structured into sections, making it easy to navigate and explore different topics step by step.
